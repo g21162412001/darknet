@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>IMG_20220205_094830.jpg</filename>
+	<path>C:/labelimgwindows_v1.8.1/windows_v1.8.1/data/IMG_20220205_094830.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sakula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1713</xmin>
+			<ymin>733</ymin>
+			<xmax>2337</xmax>
+			<ymax>1209</ymax>
+		</bndbox>
+	</object>
+</annotation>
